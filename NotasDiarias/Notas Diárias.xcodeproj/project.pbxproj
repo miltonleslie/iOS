@@ -1,0 +1,364 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		522B05B224FF3A8000731F84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522B05B124FF3A8000731F84 /* AppDelegate.swift */; };
+		522B05B424FF3A8000731F84 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522B05B324FF3A8000731F84 /* SceneDelegate.swift */; };
+		522B05B924FF3A8000731F84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522B05B724FF3A8000731F84 /* Main.storyboard */; };
+		522B05BC24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 522B05BA24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodeld */; };
+		522B05BE24FF3A8400731F84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522B05BD24FF3A8400731F84 /* Assets.xcassets */; };
+		522B05C124FF3A8400731F84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522B05BF24FF3A8400731F84 /* LaunchScreen.storyboard */; };
+		522B05C92500704600731F84 /* ListarAnotacoesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522B05C82500704600731F84 /* ListarAnotacoesTableViewController.swift */; };
+		522B05CB2500718200731F84 /* AnotacaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522B05CA2500718200731F84 /* AnotacaoViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		522B05AE24FF3A8000731F84 /* Notas Diárias.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Notas Diárias.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		522B05B124FF3A8000731F84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		522B05B324FF3A8000731F84 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		522B05B824FF3A8000731F84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		522B05BB24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Notas_Dia_rias.xcdatamodel; sourceTree = "<group>"; };
+		522B05BD24FF3A8400731F84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		522B05C024FF3A8400731F84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		522B05C224FF3A8400731F84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		522B05C82500704600731F84 /* ListarAnotacoesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListarAnotacoesTableViewController.swift; sourceTree = "<group>"; };
+		522B05CA2500718200731F84 /* AnotacaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotacaoViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		522B05AB24FF3A8000731F84 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		522B05A524FF3A8000731F84 = {
+			isa = PBXGroup;
+			children = (
+				522B05B024FF3A8000731F84 /* Notas Diárias */,
+				522B05AF24FF3A8000731F84 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		522B05AF24FF3A8000731F84 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				522B05AE24FF3A8000731F84 /* Notas Diárias.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		522B05B024FF3A8000731F84 /* Notas Diárias */ = {
+			isa = PBXGroup;
+			children = (
+				522B05B124FF3A8000731F84 /* AppDelegate.swift */,
+				522B05C82500704600731F84 /* ListarAnotacoesTableViewController.swift */,
+				522B05CA2500718200731F84 /* AnotacaoViewController.swift */,
+				522B05B324FF3A8000731F84 /* SceneDelegate.swift */,
+				522B05B724FF3A8000731F84 /* Main.storyboard */,
+				522B05BD24FF3A8400731F84 /* Assets.xcassets */,
+				522B05BF24FF3A8400731F84 /* LaunchScreen.storyboard */,
+				522B05C224FF3A8400731F84 /* Info.plist */,
+				522B05BA24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodeld */,
+			);
+			path = "Notas Diárias";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		522B05AD24FF3A8000731F84 /* Notas Diárias */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 522B05C524FF3A8400731F84 /* Build configuration list for PBXNativeTarget "Notas Diárias" */;
+			buildPhases = (
+				522B05AA24FF3A8000731F84 /* Sources */,
+				522B05AB24FF3A8000731F84 /* Frameworks */,
+				522B05AC24FF3A8000731F84 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Notas Diárias";
+			productName = "Notas Diárias";
+			productReference = 522B05AE24FF3A8000731F84 /* Notas Diárias.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		522B05A624FF3A8000731F84 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1160;
+				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = "Milton Leslie";
+				TargetAttributes = {
+					522B05AD24FF3A8000731F84 = {
+						CreatedOnToolsVersion = 11.6;
+					};
+				};
+			};
+			buildConfigurationList = 522B05A924FF3A8000731F84 /* Build configuration list for PBXProject "Notas Diárias" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 522B05A524FF3A8000731F84;
+			productRefGroup = 522B05AF24FF3A8000731F84 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				522B05AD24FF3A8000731F84 /* Notas Diárias */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		522B05AC24FF3A8000731F84 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522B05C124FF3A8400731F84 /* LaunchScreen.storyboard in Resources */,
+				522B05BE24FF3A8400731F84 /* Assets.xcassets in Resources */,
+				522B05B924FF3A8000731F84 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		522B05AA24FF3A8000731F84 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522B05B224FF3A8000731F84 /* AppDelegate.swift in Sources */,
+				522B05CB2500718200731F84 /* AnotacaoViewController.swift in Sources */,
+				522B05B424FF3A8000731F84 /* SceneDelegate.swift in Sources */,
+				522B05C92500704600731F84 /* ListarAnotacoesTableViewController.swift in Sources */,
+				522B05BC24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		522B05B724FF3A8000731F84 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				522B05B824FF3A8000731F84 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		522B05BF24FF3A8400731F84 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				522B05C024FF3A8400731F84 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		522B05C324FF3A8400731F84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		522B05C424FF3A8400731F84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		522B05C624FF3A8400731F84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 77F3V7ZPZG;
+				INFOPLIST_FILE = "Notas Diárias/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.mleslie.Notas-Dia-rias";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		522B05C724FF3A8400731F84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 77F3V7ZPZG;
+				INFOPLIST_FILE = "Notas Diárias/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.mleslie.Notas-Dia-rias";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		522B05A924FF3A8000731F84 /* Build configuration list for PBXProject "Notas Diárias" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522B05C324FF3A8400731F84 /* Debug */,
+				522B05C424FF3A8400731F84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		522B05C524FF3A8400731F84 /* Build configuration list for PBXNativeTarget "Notas Diárias" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522B05C624FF3A8400731F84 /* Debug */,
+				522B05C724FF3A8400731F84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		522B05BA24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				522B05BB24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodel */,
+			);
+			currentVersion = 522B05BB24FF3A8000731F84 /* Notas_Dia_rias.xcdatamodel */;
+			path = Notas_Dia_rias.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 522B05A624FF3A8000731F84 /* Project object */;
+}
