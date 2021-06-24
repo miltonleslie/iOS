@@ -1,0 +1,6 @@
+framework module Pods_SpringAnimacoes {
+  umbrella header "Pods-SpringAnimacoes-umbrella.h"
+
+  export *
+  module * { export * }
+}

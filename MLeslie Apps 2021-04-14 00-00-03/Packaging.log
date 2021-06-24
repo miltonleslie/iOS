@@ -1,0 +1,210 @@
+2021-04-14 02:50:48 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f857cf9ed90; archive(resolved)='<IDEArchive: 0x7f8579ac7210>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f857cf9ed90; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f857cfcba80; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857da77840; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857cd58560; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857b32b200; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857cfb1a60; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857d835ba0; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857f23dc20; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f85774a7870; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857da98bb0; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8579a2d0b0; teamID='77F3V7ZPZG', teamName='Milton Leslie Sanches', teamType='Individual', username='developer@mleslie.com.br', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f857b37b1c0; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='(null)'>
+	<IDEDistributionContext: 0x7f857f2462b0; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f857a0ba1b0>', team='(null)'>
+	<IDEDistributionContext: 0x7f857cbf0550; archive = '<IDEArchive: 0x7f8579ac7210>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f857cf9ed90>
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCopyItemStep
+2021-04-14 02:50:48 +0000  Running /usr/bin/ditto '-V' '/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app'
+2021-04-14 02:50:48 +0000  >>> Copying /Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app 
+2021-04-14 02:50:48 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-04-14 02:50:48 +0000  7223 bytes for ./_CodeSignature/CodeResources
+2021-04-14 02:50:48 +0000  copying file ./MLeslie Apps ... 
+2021-04-14 02:50:48 +0000  293344 bytes for ./MLeslie Apps
+2021-04-14 02:50:48 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-04-14 02:50:48 +0000  27866 bytes for ./AppIcon60x60@2x.png
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-yh2-Su-dF0.nib ... 
+2021-04-14 02:50:48 +0000  2512 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-yh2-Su-dF0.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Y6I-sA-fNv.nib ... 
+2021-04-14 02:50:48 +0000  1065 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Y6I-sA-fNv.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-A8m-EU-Nba.nib ... 
+2021-04-14 02:50:48 +0000  910 bytes for ./Base.lproj/Main.storyboardc/UIViewController-A8m-EU-Nba.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/Y6I-sA-fNv-view-CIB-dY-Kee.nib ... 
+2021-04-14 02:50:48 +0000  5947 bytes for ./Base.lproj/Main.storyboardc/Y6I-sA-fNv-view-CIB-dY-Kee.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-euE-rj-fxe.nib ... 
+2021-04-14 02:50:48 +0000  1056 bytes for ./Base.lproj/Main.storyboardc/UIViewController-euE-rj-fxe.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/A8m-EU-Nba-view-Hdx-TN-PFp.nib ... 
+2021-04-14 02:50:48 +0000  4110 bytes for ./Base.lproj/Main.storyboardc/A8m-EU-Nba-view-Hdx-TN-PFp.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-04-14 02:50:48 +0000  4884 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Zy3-6x-1Mw-view-ES2-OL-q83.nib ... 
+2021-04-14 02:50:48 +0000  4982 bytes for ./Base.lproj/Main.storyboardc/Zy3-6x-1Mw-view-ES2-OL-q83.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/euE-rj-fxe-view-P3T-hI-qdX.nib ... 
+2021-04-14 02:50:48 +0000  3356 bytes for ./Base.lproj/Main.storyboardc/euE-rj-fxe-view-P3T-hI-qdX.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-04-14 02:50:48 +0000  549 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Zy3-6x-1Mw.nib ... 
+2021-04-14 02:50:48 +0000  1057 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Zy3-6x-1Mw.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-04-14 02:50:48 +0000  1937 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-04-14 02:50:48 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-04-14 02:50:48 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-04-14 02:50:48 +0000  copying file ./Base.lproj/Info.plist ... 
+2021-04-14 02:50:48 +0000  1182 bytes for ./Base.lproj/Info.plist
+2021-04-14 02:50:48 +0000  copying file ./Assets.car ... 
+2021-04-14 02:50:48 +0000  1353871 bytes for ./Assets.car
+2021-04-14 02:50:48 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+42535 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./embedded.mobileprovision ... 
+7750 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1607 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2021-04-14 02:50:48 +0000  /usr/bin/ditto exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-04-14 02:50:48 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app/MLeslie Apps' '-l' '-o' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app/MLeslie Apps'
+2021-04-14 02:50:48 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-04-14 02:50:48 +0000  Running /usr/bin/ditto '-V' '/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/BCSymbolMaps/9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/BCSymbolMaps/9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap'
+2021-04-14 02:50:48 +0000  >>> Copying /Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/BCSymbolMaps/9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap 
+2021-04-14 02:50:48 +0000  copying file ./9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap ... 
+2021-04-14 02:50:48 +0000  20622 bytes for ./9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap
+2021-04-14 02:50:48 +0000  /usr/bin/ditto exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionSymbolsStep
+2021-04-14 02:50:48 +0000  Excluding symbols for MLeslie Apps.app
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionAppThinningStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionArchThinningStep
+2021-04-14 02:50:48 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app/MLeslie Apps' '-verify_arch' 'arm64e'
+2021-04-14 02:50:48 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-04-14 02:50:48 +0000  Skipping architecture thinning for item "MLeslie Apps" because arch "arm64e" wasn't found
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionODRStep
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-04-14 02:50:48 +0000  Running /usr/bin/xattr '-crs' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app'
+2021-04-14 02:50:48 +0000  /usr/bin/xattr exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCodesignStep
+2021-04-14 02:50:48 +0000  Entitlements for <IDEDistributionItem: 0x7f857e009200; bundleID='br.com.mleslie.mleslieapps', path='<DVTFilePath:0x7f857e869310:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f857da54cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f857a391c20; name='Apple Development: Milton Leslie Sanches (FTXAXYAL7L)', hash='302C9389B8DB5A1C12C52DE7AD778E6016B8FB81', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f857a3a0260>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-04-02 15:39:43 +0000''>', entitlements='{
+    "application-identifier" = "77F3V7ZPZG.br.com.mleslie.mleslieapps";
+    "com.apple.developer.team-identifier" = 77F3V7ZPZG;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "77F3V7ZPZG.br.com.mleslie.mleslieapps"
+    );
+}', teamID='77F3V7ZPZG', identifier='br.com.mleslie.mleslieapps', executablePath='<DVTFilePath:0x7f857e88a720:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app/MLeslie Apps'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "77F3V7ZPZG.br.com.mleslie.mleslieapps";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 77F3V7ZPZG;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "77F3V7ZPZG.br.com.mleslie.mleslieapps"
+    );
+}
+2021-04-14 02:50:48 +0000  Entitlements for <IDEDistributionItem: 0x7f857e009200; bundleID='br.com.mleslie.mleslieapps', path='<DVTFilePath:0x7f857e869310:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f857da54cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f857da69eb0; name='Apple Development: Milton Leslie Sanches (FTXAXYAL7L)', hash='302C9389B8DB5A1C12C52DE7AD778E6016B8FB81', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f857b7d9420>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-04-02 15:39:43 +0000''>', entitlements='{
+    "application-identifier" = "77F3V7ZPZG.br.com.mleslie.mleslieapps";
+    "com.apple.developer.team-identifier" = 77F3V7ZPZG;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "77F3V7ZPZG.br.com.mleslie.mleslieapps"
+    );
+}', teamID='77F3V7ZPZG', identifier='br.com.mleslie.mleslieapps', executablePath='<DVTFilePath:0x7f857e88a720:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app/MLeslie Apps'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "77F3V7ZPZG.br.com.mleslie.mleslieapps";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 77F3V7ZPZG;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "77F3V7ZPZG.br.com.mleslie.mleslieapps"
+    );
+}
+2021-04-14 02:50:48 +0000  Writing entitlements for <IDEDistributionItem: 0x7f857e009200; bundleID='br.com.mleslie.mleslieapps', path='<DVTFilePath:0x7f857e869310:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f857da54cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f857daaf420; name='Apple Development: Milton Leslie Sanches (FTXAXYAL7L)', hash='302C9389B8DB5A1C12C52DE7AD778E6016B8FB81', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f857b7624e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-04-02 15:39:43 +0000''>', entitlements='{
+    "application-identifier" = "77F3V7ZPZG.br.com.mleslie.mleslieapps";
+    "com.apple.developer.team-identifier" = 77F3V7ZPZG;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "77F3V7ZPZG.br.com.mleslie.mleslieapps"
+    );
+}', teamID='77F3V7ZPZG', identifier='br.com.mleslie.mleslieapps', executablePath='<DVTFilePath:0x7f857e88a720:'/Users/milton/Library/Developer/Xcode/Archives/2021-04-13/MLeslie Apps 2021-04-13, 11.49 PM.xcarchive/Products/Applications/MLeslie Apps.app/MLeslie Apps'>', hardenedRuntime='0'>'> to: /var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/entitlements~~~qf0Imd
+2021-04-14 02:50:48 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'C6410354DD1E7873095F922447DF0B7449B123D1' '--entitlements' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/entitlements~~~qf0Imd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app'
+2021-04-14 02:50:48 +0000  /var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app: signed app bundle with Mach-O thin (arm64) [br.com.mleslie.mleslieapps]
+2021-04-14 02:50:48 +0000  /usr/bin/codesign exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-04-14 02:50:48 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root' '/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Packages/MLeslie Apps.ipa'
+2021-04-14 02:50:48 +0000  >>> Copying /var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root 
+2021-04-14 02:50:48 +0000  copying file ./BCSymbolMaps/9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap ... 
+2021-04-14 02:50:48 +0000  20622 bytes for ./BCSymbolMaps/9CE7D4AB-7CEA-386D-BA32-C0EAE8F4DA0C.bcsymbolmap
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/_CodeSignature/CodeResources ... 
+2021-04-14 02:50:48 +0000  7223 bytes for ./Payload/MLeslie Apps.app/_CodeSignature/CodeResources
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/MLeslie Apps ... 
+2021-04-14 02:50:48 +0000  232736 bytes for ./Payload/MLeslie Apps.app/MLeslie Apps
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/AppIcon60x60@2x.png ... 
+2021-04-14 02:50:48 +0000  27866 bytes for ./Payload/MLeslie Apps.app/AppIcon60x60@2x.png
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UINavigationController-yh2-Su-dF0.nib ... 
+2021-04-14 02:50:48 +0000  2512 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UINavigationController-yh2-Su-dF0.nib
+copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-Y6I-sA-fNv.nib ... 
+2021-04-14 02:50:48 +0000  1065 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-Y6I-sA-fNv.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-A8m-EU-Nba.nib ... 
+2021-04-14 02:50:48 +0000  910 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-A8m-EU-Nba.nib
+copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Y6I-sA-fNv-view-CIB-dY-Kee.nib ... 
+2021-04-14 02:50:48 +0000  5947 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Y6I-sA-fNv-view-CIB-dY-Kee.nib
+copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-euE-rj-fxe.nib ... 
+2021-04-14 02:50:48 +0000  1056 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-euE-rj-fxe.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/A8m-EU-Nba-view-Hdx-TN-PFp.nib ... 
+2021-04-14 02:50:48 +0000  4110 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/A8m-EU-Nba-view-Hdx-TN-PFp.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-04-14 02:50:48 +0000  4884 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Zy3-6x-1Mw-view-ES2-OL-q83.nib ... 
+2021-04-14 02:50:48 +0000  4982 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Zy3-6x-1Mw-view-ES2-OL-q83.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/euE-rj-fxe-view-P3T-hI-qdX.nib ... 
+2021-04-14 02:50:48 +0000  3356 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/euE-rj-fxe-view-P3T-hI-qdX.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-04-14 02:50:48 +0000  549 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-Zy3-6x-1Mw.nib ... 
+2021-04-14 02:50:48 +0000  1057 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Main.storyboardc/UIViewController-Zy3-6x-1Mw.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-04-14 02:50:48 +0000  1937 bytes for ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-04-14 02:50:48 +0000  896 bytes for ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-04-14 02:50:48 +0000  258 bytes for ./Payload/MLeslie Apps.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/Base.lproj/Info.plist ... 
+2021-04-14 02:50:48 +0000  1182 bytes for ./Payload/MLeslie Apps.app/Base.lproj/Info.plist
+copying file ./Payload/MLeslie Apps.app/Assets.car ... 
+2021-04-14 02:50:48 +0000  1353871 bytes for ./Payload/MLeslie Apps.app/Assets.car
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/AppIcon76x76@2x~ipad.png ... 
+2021-04-14 02:50:48 +0000  42535 bytes for ./Payload/MLeslie Apps.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/MLeslie Apps.app/embedded.mobileprovision ... 
+2021-04-14 02:50:48 +0000  7542 bytes for ./Payload/MLeslie Apps.app/embedded.mobileprovision
+copying file ./Payload/MLeslie Apps.app/Info.plist ... 
+2021-04-14 02:50:48 +0000  1607 bytes for ./Payload/MLeslie Apps.app/Info.plist
+2021-04-14 02:50:48 +0000  copying file ./Payload/MLeslie Apps.app/PkgInfo ... 
+2021-04-14 02:50:48 +0000  8 bytes for ./Payload/MLeslie Apps.app/PkgInfo
+2021-04-14 02:50:48 +0000  /usr/bin/ditto exited with 0
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-04-14 02:50:48 +0000  IDEDistributionItem init <DVTFilePath:0x7f857bb29cf0:'/var/folders/fy/r9m82kxn3s1cwpd92g56rr2m0000gn/T/XcodeDistPipeline.~~~aPuESU/Root/Payload/MLeslie Apps.app'>
+2021-04-14 02:50:48 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-04-14 02:50:48 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
