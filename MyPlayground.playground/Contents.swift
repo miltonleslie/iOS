@@ -1,25 +1,26 @@
-import UIKit
+print("Hi")
 
-class Animal {
-    var cor = "marrom"
-    func dormir() -> String{
-        return "dormir"
+// Defining the Structure
+struct Town {
+    let name: String
+    var citizens: [String]
+    var resources: [String: Int]
+    
+    init(name: String, citizens: [String], resources: [String: Int]) {
+        self.name = name
+        self.citizens = citizens
+        self.resources = resources
     }
     
-}
-
-class Cachorro: Animal {
-    func latir() -> String{
-        return "latir"
+    func fortify() {
+        print("Defences increased!")
     }
 }
 
-class Passaro: Animal {
-    
-}
+var anotherTown = Town(name: "Nameless Island", citizens: ["Tom Hanks"], resources: ["Coconuts":100])
+anotherTown.citizens.append("Wilson")
+print(anotherTown.citizens)
 
-var cachorro = Cachorro()
-cachorro.cor
-cachorro.dormir()
-cachorro.latir()
-
+var ghostTown = Town(name: "Ghosty McGhostface", citizens: [], resources: ["Tumbleweed": 1])
+ghostTown.fortify()
+print()
