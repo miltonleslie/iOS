@@ -1,0 +1,96 @@
+
+/* Class = "UIViewController"; title = "GerApp"; ObjectID = "0hI-f4-suL"; */
+"0hI-f4-suL.title" = "GerApp";
+
+/* Class = "UILabel"; text = "Segundos: 120"; ObjectID = "1HL-NY-v3F"; */
+"1HL-NY-v3F.text" = "Segundos: 120";
+
+/* Class = "UILabel"; text = "09-11-2021"; ObjectID = "1tb-j9-JYw"; */
+"1tb-j9-JYw.text" = "09-11-2021";
+
+/* Class = "UILabel"; text = "Ativo"; ObjectID = "2XH-tj-cId"; */
+"2XH-tj-cId.text" = "Ativo";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "CfM-L2-SDX"; */
+"CfM-L2-SDX.text" = "1";
+
+/* Class = "UINavigationItem"; title = "GerApp"; ObjectID = "Cub-bG-60t"; */
+"Cub-bG-60t.title" = "GerApp";
+
+/* Class = "UIButton"; normalTitle = "ATIVAR"; ObjectID = "EDc-go-kz8"; */
+"EDc-go-kz8.normalTitle" = "ATIVAR";
+
+/* Class = "UILabel"; text = "12:29:40"; ObjectID = "Hc6-VI-UqV"; */
+"Hc6-VI-UqV.text" = "12:29:40";
+
+/* Class = "UILabel"; text = "Consulta Serasa"; ObjectID = "KhZ-fU-JaJ"; */
+"KhZ-fU-JaJ.text" = "Consulta Serasa";
+
+/* Class = "UILabel"; text = "Ativo"; ObjectID = "Kn4-bc-i2l"; */
+"Kn4-bc-i2l.text" = "Ativo";
+
+/* Class = "UILabel"; text = "Consulta Serasa"; ObjectID = "KuL-H8-hY4"; */
+"KuL-H8-hY4.text" = "Consulta Serasa";
+
+/* Class = "UILabel"; text = "Mensagem"; ObjectID = "LWE-7p-61A"; */
+"LWE-7p-61A.text" = "Mensagem";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "NqZ-vb-JuV"; */
+"NqZ-vb-JuV.text" = "1";
+
+/* Class = "UILabel"; text = "Status: Alerta"; ObjectID = "T4c-ap-9fJ"; */
+"T4c-ap-9fJ.text" = "Status: Alerta";
+
+/* Class = "UILabel"; text = "10-11-2021"; ObjectID = "Ugq-BY-2dv"; */
+"Ugq-BY-2dv.text" = "10-11-2021";
+
+/* Class = "UILabel"; text = "Mensagem"; ObjectID = "UhN-cG-USZ"; */
+"UhN-cG-USZ.text" = "Mensagem";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "X3i-zE-QDU"; */
+"X3i-zE-QDU.placeholder" = "Password";
+
+/* Class = "UITextField"; text = "training"; ObjectID = "X3i-zE-QDU"; */
+"X3i-zE-QDU.text" = "training";
+
+/* Class = "UILabel"; text = "Diferença: 4052"; ObjectID = "aVT-hl-7mM"; */
+"aVT-hl-7mM.text" = "Diferença: 4052";
+
+/* Class = "UIButton"; normalTitle = "CONFIRMAR"; ObjectID = "bft-Bs-Io9"; */
+"bft-Bs-Io9.normalTitle" = "CONFIRMAR";
+
+/* Class = "UILabel"; text = "Eframe"; ObjectID = "cIS-QN-PnF"; */
+"cIS-QN-PnF.text" = "Eframe";
+
+/* Class = "UILabel"; text = "eframe"; ObjectID = "cgF-6Z-FP4"; */
+"cgF-6Z-FP4.text" = "eframe";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "d6U-A0-UQs"; */
+"d6U-A0-UQs.title" = "Title";
+
+/* Class = "UILabel"; text = "10-11-2021"; ObjectID = "feI-Vc-0h2"; */
+"feI-Vc-0h2.text" = "10-11-2021";
+
+/* Class = "UILabel"; text = "17:14:09"; ObjectID = "gUW-Zi-Fmk"; */
+"gUW-Zi-Fmk.text" = "17:14:09";
+
+/* Class = "UILabel"; text = "Servidor: https://transfersbrazil.com.br/api/"; ObjectID = "kna-1g-I3q"; */
+"kna-1g-I3q.text" = "Servidor: https://transfersbrazil.com.br/api/";
+
+/* Class = "UILabel"; text = "Usuário: Eframetec"; ObjectID = "lux-19-a2b"; */
+"lux-19-a2b.text" = "Usuário: Eframetec";
+
+/* Class = "UILabel"; text = "Mensagem..."; ObjectID = "mED-3b-B2D"; */
+"mED-3b-B2D.text" = "Mensagem...";
+
+/* Class = "UIButton"; normalTitle = "INATIVAR"; ObjectID = "pfu-mK-PY0"; */
+"pfu-mK-PY0.normalTitle" = "INATIVAR";
+
+/* Class = "UILabel"; text = "02:59:59"; ObjectID = "vDZ-ih-HZ7"; */
+"vDZ-ih-HZ7.text" = "02:59:59";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "vSk-8G-m4O"; */
+"vSk-8G-m4O.placeholder" = "E-Mail";
+
+/* Class = "UITextField"; text = "miltonleslie@eframetec.com.br"; ObjectID = "vSk-8G-m4O"; */
+"vSk-8G-m4O.text" = "miltonleslie@eframetec.com.br";
