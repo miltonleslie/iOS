@@ -21,7 +21,7 @@ class ViewControllerLogin: UIViewController {
     //MARK: Button Action
     @IBAction func buttonConfirm(_ sender: UIButton) {
 
-        let token = "0x1E06C0F13C5900406B184EB40978422D65EBC372CF06183ECE3A6B8F3A1EBF5C"
+        let token = "0x1E06****BF5C"
         let email = emailText?.text
         let passwd = passwdText?.text
         var s: String = "https://www.transfersbrazil.com.br/api/get_users.php?"
