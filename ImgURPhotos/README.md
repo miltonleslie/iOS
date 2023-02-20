@@ -14,7 +14,7 @@ This project was built to access the Ingur API with "Client ID" and "Client secr
 <br>
 
 <h2>How users can use it</h2>
-<h4>• Use "git clone https://github.com/miltonleslie/iOS/imgURPhotos" to download.</h4>
+<h4>• Use "git clone https://github.com/miltonleslie/iOS.git" to download.</h4>
 <br>
 
 <h2>Where users can find help about their project</h2>
