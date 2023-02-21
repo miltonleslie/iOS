@@ -10,8 +10,6 @@ import UIKit
 class ViewController: UIViewController, UICollectionViewDelegateFlowLayout, UICollectionViewDataSource {
 
     let navigationBar = UINavigationBar()
-    let refreshButton = UIBarButtonItem(barButtonSystemItem: .refresh, target: ViewController.self, action: #selector(refreshData))
-
     private let collectionView = UICollectionView(
         frame: .zero,
         collectionViewLayout: UICollectionViewFlowLayout()
@@ -49,6 +47,7 @@ class ViewController: UIViewController, UICollectionViewDelegateFlowLayout, UICo
     func setupView() {
         navigationController?.navigationBar.addSubview(navigationBar)
         navigationItem.title = "Imgur Photos"
+        let refreshButton = UIBarButtonItem(barButtonSystemItem: .refresh, target: self, action: #selector(refreshData))
         navigationItem.rightBarButtonItem = refreshButton
 
         collectionView.register(CollectionViewCell.self, forCellWithReuseIdentifier: CollectionViewCell.identifier)
